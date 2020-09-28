@@ -1,2 +1,2 @@
 # Project001
-My First Project on HTML and CSS. still in progress...
+My First Project on HTML and CSS. All done.
